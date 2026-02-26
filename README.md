@@ -113,11 +113,15 @@ Embedded Systems          Edge-to-Cloud              Constrained Networks
 
 ## GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdiellopezpy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdiellopezpy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiellopezpy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdiellopezpy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdiellopezpy&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+<a href="https://github.com/abdielLopezpy?tab=repositories"><img src="https://img.shields.io/github/stars/abdiellopezpy?style=for-the-badge&theme=dark&logo=github&label=Total%20Stars&color=gold" alt="GitHub Stars"/></a>
 
 ---
 
