@@ -38,6 +38,10 @@ fn design_system() -> Architecture {
 
 - **Microservices Architecture** — Designing domain-driven, loosely coupled services that scale independently. API gateways, service meshes, event-driven communication, and observability patterns for systems that grow without breaking.
 
+- **Clean & Hexagonal Architecture** — Structuring codebases with ports and adapters that isolate business logic from infrastructure. Domain at the center, dependencies pointing inward, and every external concern swappable without touching core rules.
+
+- **Event-Driven Architecture** — Designing systems that communicate through events instead of direct calls. Event sourcing, CQRS, message brokers, and eventual consistency patterns for decoupled services that react in real time.
+
 - **IoT & Embedded Systems** — Connecting the physical and digital world. MQTT/CoAP protocols, sensor data pipelines, device fleet management, and edge-to-cloud architectures for smart devices that operate reliably in constrained environments.
 
 - **Open Source Contributor** — I actively contribute to the open source ecosystem, building tools and libraries that advance local-first and distributed systems for the community.
@@ -80,7 +84,9 @@ Peer-to-Peer Protocols    Offline-First Design       Real-Time Collaboration
 Event Sourcing            State Synchronization      Merkle-DAGs
 WebRTC / WebSockets       Data Replication           System Design
 Microservices             API Gateway Design         Service Meshes
-Domain-Driven Design      Event-Driven Architecture  Observability
+Clean Architecture        Hexagonal / Ports+Adapters CQRS
+Domain-Driven Design      Event Sourcing             Message Brokers
+Event-Driven Architecture Saga Pattern               Observability
 IoT / MQTT / CoAP         Device Fleet Management    Sensor Data Pipelines
 Embedded Systems          Edge-to-Cloud              Constrained Networks
 ```
@@ -103,17 +109,39 @@ Embedded Systems          Edge-to-Cloud              Constrained Networks
 
 <div align="center">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abdiellopezpy&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdiellopezpy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+## GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdiellopezpy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdiellopezpy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdiellopezpy&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
 ---
 
+```
+          +-------------------+
+          |    Domain Core    |
+          |  (Business Rules) |
+          +-------------------+
+         /    |          |     \
+        /     |          |      \
+  [Ports]  [Ports]    [Ports]  [Ports]
+    |         |          |        |
+ Adapters  Adapters  Adapters  Adapters
+    |         |          |        |
+  REST    Events     MQTT/CoAP   DB
+```
+
 *"The best distributed system is one that doesn't need a central server to work."*
 
+---
+
+### Let's Connect
+
 <a href="mailto:aalh97pa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/abdielLopezpy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<sub>Open to collaborations on local-first, CRDT, edge computing, and IoT projects.</sub>
 
 </div>
