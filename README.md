@@ -11,6 +11,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
+<img src="https://raw.githubusercontent.com/rodrigo-md/rodrigo-md/main/matrix.gif" alt="Matrix" width="600"/>
+
 </div>
 
 ---
