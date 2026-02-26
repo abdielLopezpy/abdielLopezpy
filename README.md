@@ -1,10 +1,32 @@
+<div align="center">
+
 # Abdiel Lopez
+
+### `> building systems that work without the cloud_`
 
 **Software Architect | CRDTs | Local-First | Edge Computing | Microservices | IoT**
 
-I build resilient, offline-capable distributed systems that put data ownership back in the user's hands. My work focuses on Conflict-free Replicated Data Types (CRDTs), local-first architectures, edge computing, microservices, and IoT systems that eliminate single points of failure and scale from the cloud to the smallest device.
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
+</div>
 
 ---
+
+I build resilient, offline-capable distributed systems that put data ownership back in the user's hands. My work focuses on Conflict-free Replicated Data Types (CRDTs), local-first architectures, edge computing, microservices, and IoT systems that eliminate single points of failure and scale from the cloud to the smallest device.
+
+```rust
+// My philosophy in code
+fn design_system() -> Architecture {
+    Architecture::new()
+        .offline_first(true)        // Works without internet
+        .conflict_free(true)        // CRDTs handle the rest
+        .edge_native(true)          // Compute where data lives
+        .scales_to(Device::Smallest) // From cloud to microcontroller
+}
+```
 
 ## What I Do
 
@@ -22,15 +44,33 @@ I build resilient, offline-capable distributed systems that put data ownership b
 
 ## Tech Stack
 
-```
-Rust          Systems-level CRDT engines, high-performance sync protocols
-Flutter/Dart  Cross-platform local-first mobile & desktop apps
-TypeScript    Real-time collaborative web applications, CRDT libraries
-```
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" alt="Rust"/><br><b>Rust</b><br><sub>CRDT engines & sync protocols</sub>
+</td>
+<td align="center" width="150">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/><br><b>Flutter</b><br><sub>Local-first mobile & desktop</sub>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br><b>TypeScript</b><br><sub>Collaborative web apps</sub>
+</td>
+</tr>
+</table>
 
 ### Also Proficient In
 
-`Python` `Node.js` `PostgreSQL` `MongoDB` `Redis` `Docker` `React` `Next.js` `Tailwind CSS`
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
 
 ## Areas of Expertise
 
@@ -61,6 +101,8 @@ Embedded Systems          Edge-to-Cloud              Constrained Networks
 
 ---
 
+<div align="center">
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=abdiellopezpy&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -70,4 +112,8 @@ Embedded Systems          Edge-to-Cloud              Constrained Networks
 
 ---
 
-<a href="mailto:aalh97pa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+*"The best distributed system is one that doesn't need a central server to work."*
+
+<a href="mailto:aalh97pa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
