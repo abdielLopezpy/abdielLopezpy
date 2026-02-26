@@ -1,17 +1,15 @@
 <div align="center">
 
-# Abdiel Lopez
+# `> Abdiel Lopez_`
 
-### `> building systems that work without the cloud_`
-
-**Software Architect | CRDTs | Local-First | Edge Computing | Microservices | IoT**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%A7+Software+Architect;%E2%9A%A1+CRDTs+%7C+Local-First+%7C+Edge+Computing+%7C+IoT" alt="Typing SVG" />
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
-<img src="https://raw.githubusercontent.com/rodrigo-md/rodrigo-md/main/matrix.gif" alt="Matrix" width="600"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2OWF0Y2R0ZGxjZGptOGdranBhcW50dGhkNGsyeXE0dHU0NzBiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="400"/>
 
 </div>
 
@@ -149,5 +147,14 @@ Embedded Systems          Edge-to-Cloud              Constrained Networks
 <a href="https://github.com/abdielLopezpy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <sub>Open to collaborations on local-first, CRDT, edge computing, and IoT projects.</sub>
+
+<br>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  "The best distributed system is one that doesn't need     ║
+║   a central server to work."              — Abdiel Lopez   ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
