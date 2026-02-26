@@ -54,8 +54,9 @@ Embedded Systems          Edge-to-Cloud              Constrained Networks
 
 ## Current Focus
 
-- Exploring hybrid logical clocks and vector clocks for causal ordering in distributed apps
-- Building local-first SDKs with Rust + Flutter for cross-platform offline sync
+- Building edge computing solutions with Rust for low-latency data processing at the network edge
+- Designing IoT architectures that sync device fleets with CRDT-based conflict resolution
+- Developing lightweight embedded runtimes for constrained IoT devices
 - Contributing to open source CRDT libraries and local-first tooling
 
 ---
